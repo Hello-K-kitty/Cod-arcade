@@ -169,11 +169,14 @@ void SelecionaQuestao(int nQuestao) {
       lcd.clear();
       lcd.setCursor(0, 0);
       delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
+      lcd.setCursor( 6, 1);
+      lcd.print("Questao");
+      lcd.setCursor( 8, 2);
       lcd.print("Um");
-      lcd.setCursor (9, 3);
-      delay(500);
+        delay(500);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+        delay(1200);
       lcd.print("Quanto tempo durou a ");
       lcd.setCursor( 0, 1);
       lcd.print("guerra dos 100 anos?");
@@ -198,11 +201,14 @@ void SelecionaQuestao(int nQuestao) {
       lcd.clear();
       lcd.setCursor(0, 0);
       delay(1200);
-      lcd.print("Questão");
+       lcd.setCursor( 6, 1);
+      lcd.print("Questao");
       lcd.setCursor( 7, 2);
       lcd.print("Dois");
-      lcd.setCursor (9, 3);
-      delay(500);
+        delay(500);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+        delay(1200);
       lcd.print("Um exemplo de bloco");
       lcd.setCursor(0, 1);
       lcd.print("de livre comercio:");
@@ -227,11 +233,14 @@ void SelecionaQuestao(int nQuestao) {
       lcd.clear();
       lcd.setCursor(0, 0);
       delay(1200);
-      lcd.print("Questão");
+       lcd.setCursor( 6, 1);
+      lcd.print("Questao");
       lcd.setCursor( 7, 2);
       lcd.print("Tres");
-      lcd.setCursor (9, 3);
-      delay(500);
+        delay(500);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+        delay(1200);
       lcd.print("Ha enclise em:");
       lcd.setCursor(0, 1);
       lcd.print("A)amar-te-ia");
@@ -256,11 +265,14 @@ void SelecionaQuestao(int nQuestao) {
       lcd.clear();
       lcd.setCursor(0, 0);
       delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
+       lcd.setCursor( 6, 1);
+      lcd.print("Questao");
+      lcd.setCursor( 6, 2);
       lcd.print("Quatro");
-      lcd.setCursor (9, 3);
-      delay(500);
+        delay(500);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+        delay(1200);
       lcd.print("A celula animal e:");
       lcd.setCursor(0, 1);
       lcd.print("A)procariotica");
@@ -285,11 +297,14 @@ void SelecionaQuestao(int nQuestao) {
       lcd.clear();
       lcd.setCursor(0, 0);
       delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
+       lcd.setCursor( 6, 1);
+      lcd.print("Questao");
+      lcd.setCursor( 6, 2);
       lcd.print("Cinco");
-      lcd.setCursor (9, 3);
-      delay(500);
+        delay(500);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+        delay(1200);
       lcd.print("Quantos elementos");
       lcd.setCursor(0, 1);
       lcd.print("tem a tabela");
@@ -314,11 +329,14 @@ void SelecionaQuestao(int nQuestao) {
       lcd.clear();
       lcd.setCursor(0, 0);
       delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
+       lcd.setCursor( 6, 1);
+      lcd.print("Questao");
+      lcd.setCursor( 8, 2);
       lcd.print("Seis");
-      lcd.setCursor (9, 3);
-      delay(500);
+        delay(500);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+        delay(1200);
       lcd.print("E um espelho convexo");
       lcd.setCursor(0, 1);
       lcd.print("A)telescopio");
@@ -343,11 +361,14 @@ void SelecionaQuestao(int nQuestao) {
       lcd.clear();
       lcd.setCursor(0, 0);
       delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
+       lcd.setCursor( 6, 1);
+      lcd.print("Questao");
+      lcd.setCursor( 8, 2);
       lcd.print("Sete");
-      lcd.setCursor (9, 3);
-      delay(500);
+        delay(500);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+        delay(1200);
       lcd.print("Quanto e 7x8?");
       lcd.setCursor(0, 1);
       lcd.print("A)91 B)49 C)56 D)64");
@@ -367,11 +388,14 @@ void SelecionaQuestao(int nQuestao) {
       lcd.clear();
       lcd.setCursor(0, 0);
       delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
+       lcd.setCursor( 6, 1);
+      lcd.print("Questao");
+      lcd.setCursor( 8, 2);
       lcd.print("Oito");
-      lcd.setCursor (9, 3);
-      delay(500);
+        delay(500);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+        delay(1200);
       lcd.print("E um renacentista:");
       lcd.setCursor(0, 1);
       lcd.print("A)Aleijadinho B)Hals");
@@ -394,11 +418,14 @@ void SelecionaQuestao(int nQuestao) {
       lcd.clear();
       lcd.setCursor(0, 0);
       delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
+       lcd.setCursor( 6, 1);
+      lcd.print("Questao");
+      lcd.setCursor( 8, 2);
       lcd.print("Nove");
-      lcd.setCursor (9, 3);
-      delay(500);
+        delay(500);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+        delay(1200);
       lcd.print("Ecritor de Iracema e");
       lcd.setCursor(0, 1);
       lcd.print("A)Jose de Alencar");
@@ -423,11 +450,14 @@ void SelecionaQuestao(int nQuestao) {
       lcd.clear();
       lcd.setCursor(0, 0);
       delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
+       lcd.setCursor( 6, 1);
+      lcd.print("Questao");
+      lcd.setCursor( 8, 2);
       lcd.print("Dez");
-      lcd.setCursor (9, 3);
-      delay(500);
+        delay(500);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+        delay(1200);
       lcd.print("A palavra Legend");
       lcd.setCursor(0, 1);
       lcd.print("Significa:");
@@ -452,11 +482,14 @@ void SelecionaQuestao(int nQuestao) {
       lcd.clear();
       lcd.setCursor(0, 0);
       delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
+       lcd.setCursor( 6, 1);
+      lcd.print("Questao");
+      lcd.setCursor( 8, 2);
       lcd.print("Onze");
-      lcd.setCursor (9, 3);
-      delay(500);
+        delay(500);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+        delay(1200);
       lcd.print("De quem e a frase:");
       lcd.setCursor(0, 1);
       lcd.print("Penso,logo existo.");
@@ -481,11 +514,14 @@ void SelecionaQuestao(int nQuestao) {
       lcd.clear();
       lcd.setCursor(0, 0);
       delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
-      lcd.print("DOze");
-      lcd.setCursor (9, 3);
-      delay(500);
+       lcd.setCursor( 6, 1);
+      lcd.print("Questao");
+      lcd.setCursor( 8, 2);
+      lcd.print("Doze");
+        delay(500);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+        delay(1200);
       lcd.print("Onde inventaram o");
       lcd.setCursor(0, 1);
       lcd.print("chuveiro eletrico ?");
@@ -510,11 +546,14 @@ void SelecionaQuestao(int nQuestao) {
       lcd.clear();
       lcd.setCursor(0, 0);
       delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
+       lcd.setCursor( 6, 1);
+      lcd.print("Questao");
+      lcd.setCursor( 8, 2);
       lcd.print("Treze");
-      lcd.setCursor (9, 3);
-      delay(500);
+        delay(500);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+        delay(1200);
       lcd.print("Qual o menor");
       lcd.setCursor(0, 1);
       lcd.print("pais do mundo?");
@@ -539,11 +578,14 @@ void SelecionaQuestao(int nQuestao) {
       lcd.clear();
       lcd.setCursor(0, 0);
       delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
+       lcd.setCursor( 6, 1);
+      lcd.print("Questao");
+      lcd.setCursor( 8, 2);
       lcd.print("Quatorze");
-      lcd.setCursor (9, 3);
-      delay(500);
+        delay(500);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+        delay(1200);
       lcd.print("Quantas casas");
       lcd.setCursor(0, 1);
       lcd.print("decimais tem o pi?");
@@ -568,11 +610,14 @@ void SelecionaQuestao(int nQuestao) {
       lcd.clear();
       lcd.setCursor(0, 0);
       delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
+       lcd.setCursor( 6, 1);
+      lcd.print("Questao");
+      lcd.setCursor( 8, 2);
       lcd.print("Quinze");
-      lcd.setCursor (9, 3);
-      delay(500);
+        delay(500);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+        delay(1200);
       lcd.print("O numero minimo de");
       lcd.setCursor(0, 1);
       lcd.print("jogadores no jogo de");
@@ -592,153 +637,7 @@ void SelecionaQuestao(int nQuestao) {
         delay(1200);
         barataerrado();
       }
-      break;
-    case 15:
-      lcd.clear();
-      lcd.setCursor(0, 0);
-      delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
-      lcd.print("Dezesseis");
-      lcd.setCursor (9, 3);
-      delay(500);
-      lcd.print("Qual o maior animal");
-      lcd.setCursor(0, 1);
-      lcd.print("terrestre?");
-      lcd.setCursor(0, 2);
-      lcd.print("A)Girafa B)T-rex");
-      lcd.setCursor(0, 3);
-      lcd.print("C)Baleia D)Elefante");
-      if (AnalisaBotao() == 'D') {
-        lcd.clear();
-        lcd.setCursor(0, 1);
-        delay(1200);
-        baratacerto();
-        pontos++;
-      } else {
-        lcd.clear();
-        lcd.setCursor(0, 1);
-        delay(1200);
-        barataerrado();
-      }
-      break;
-    case 16:
-      lcd.clear();
-      lcd.setCursor(0, 0);
-      delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
-      lcd.print("Dezesste");
-      lcd.setCursor (9, 3);
-      delay(500);
-      lcd.print("Qual o animal que");
-      lcd.setCursor(0, 1);
-      lcd.print("amamentou Romulo e");
-      lcd.setCursor(0, 2);
-      lcd.print("Remulo A)Cabra");
-      lcd.setCursor(0, 3);
-      lcd.print("B)Vaca C)Gata D)Loba");
-      if (AnalisaBotao() == 'D') {
-        lcd.clear();
-        lcd.setCursor(0, 1);
-        delay(1200);
-        baratacerto();
-        pontos++;
-      } else {
-        lcd.clear();
-        lcd.setCursor(0, 1);
-        delay(1200);
-        barataerrado();
-      }
-      break;
-    case 17:
-      lcd.clear();
-      lcd.setCursor(0, 0);
-      delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
-      lcd.print("Dezoito");
-      lcd.setCursor (9, 3);
-      delay(500);
-      lcd.print("Qual o metal cujo");
-      lcd.setCursor(0, 1);
-      lcd.print("simbolo quimico e Au");
-      lcd.setCursor(0, 2);
-      lcd.print("A)Cobre B)Prata");
-      lcd.setCursor(0, 3);
-      lcd.print("C)Ouro D)manganes");
-      if (AnalisaBotao() == 'C') {
-        lcd.clear();
-        lcd.setCursor(0, 1);
-        delay(1200);
-        baratacerto();
-        pontos++;
-      } else {
-        lcd.clear();
-        lcd.setCursor(0, 1);
-        delay(1200);
-        barataerrado();
-      }
-      break;
-    case 18:
-      lcd.clear();
-      lcd.setCursor(0, 0);
-      delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
-      lcd.print("Dezenove");
-      lcd.setCursor (9, 3);
-      delay(500);
-      lcd.print("Quantos ossos temos");
-      lcd.setCursor(0, 1);
-      lcd.print("no nosso corpo?");
-      lcd.setCursor(0, 2);
-      lcd.print("A)126 B)206 C)300");
-      lcd.setCursor(0, 3);
-      lcd.print("D)200");
-      if (AnalisaBotao() == 'B') {
-        lcd.clear();
-        lcd.setCursor(0, 1);
-        delay(1200);
-        baratacerto();
-        pontos++;
-      } else {
-        lcd.clear();
-        lcd.setCursor(0, 1);
-        delay(1200);
-        barataerrado();
-      }
      break;
-    case 19:
-      lcd.clear();
-      lcd.setCursor(0, 0);
-      delay(1200);
-      lcd.print("Questão");
-      lcd.setCursor( 7, 2);
-      lcd.print("Vinte");
-      lcd.setCursor (9, 3);
-      delay(500);
-      lcd.print("Qual o maior planeta");
-      lcd.setCursor(0, 1);
-      lcd.print("do sistema solar?");
-      lcd.setCursor(0, 2);
-      lcd.print("A)Lua B)Sol C)Marte");
-      lcd.setCursor(0, 3);
-      lcd.print("D)Jupter");
-      if (AnalisaBotao() == 'D') {
-        lcd.clear();
-        lcd.setCursor(0, 1);
-        delay(1200);
-        baratacerto();
-        pontos++;
-      } else {
-        lcd.clear();
-        lcd.setCursor(0, 1);
-        delay(1200);
-        barataerrado();
-    }
-      break;
-
   }
 }
 
@@ -945,7 +844,7 @@ for(int i=20; i>0; i--){
   lcd.setCursor(32, 1);
   lcd.print(pontos++);
   lcd.setCursor(33, 1);
-  lcd.print("/20");
+  lcd.print("/15");
 
   //lcd.clear();
  
